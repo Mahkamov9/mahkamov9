@@ -1,37 +1,75 @@
-<p>
-  <h2 align="center"> Hey there! I'm Ahadjon. <img src="https://github.com/Mahkamov9" width="25"></h2>
+<h1 align="center">Hi 👋, I'm Davlat</h1>
+<h3 align="center">Senior Software Engineer</h3>
+
+## Top stacks
+
+<p align='center'>
+<b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
 </p>
-<br>
 
-<h3> I'm Software Engineer from Uzbekistan. </h3>
-<br>
-<br>
-- 🔋  I’m <b>Frontend</b> developer .<br>
-- 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: mahkamov.dev@gmail.com<br>
-<br>
-<br>
-<hr>
-<br>
-## Languages and Tools
+<details>
+  <summary>Statistics</summary>
+  
+[![Davlatjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalisoft)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
-![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
-![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
-![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
-![Redux](https://img.shields.io/badge/-Redux-082032?style=for-the-badge&logo=Redux&logoColor=CC6699)
-![Next.js](https://img.shields.io/badge/-Next.js-082032?style=for-the-badge&logo=Next.js&logoColor=CC6699)
-![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
+<details>
+<summary>All stacks</summary>
 
+| Stack          | Name                        | Experience |
+| -------------- | --------------------------- | ---------- |
+| Full-stack     | JavaScript                  | 8+ years   |
+| Full-stack     | TypeScript                  | 4+ years   |
+| Frontend       | HTML / CSS / Flexbox        | 5+ years   |
+| Frontend       | SVG / SVG Animation         | 3+ years   |
+| Frontend       | React (+ Router, Hooks)     | 4+ years   |
+| Frontend       | React SSG                   | ~6 month   |
+| Frontend       | jQuery                      | 2+ years   |
+| Frontend       | Vue / Svelte                | ~3 month   |
+| Backend        | Python / aiohttp            | ~6 month   |
+| Backend        | Node.js                     | 5+ years   |
+| Backend        | Node.js Caching & Stream    | 4+ years   |
+| Backend        | REST/CRUD API               | 4+ years   |
+| Backend        | Serverless API              | 1+ years   |
+| Backend        | GraphQL / OpenAPI (Swagger) | 3+ years   |
+| Bundler        | Rollup / Webpack            | 4+ years   |
+| Testing        | Jest, Ava                   | 3+ years   |
+| Visual Testing | Browserstack                | 3+ years   |
+| Database       | MySQL / Postgres (via ORM)  | 3+ years   |
+| Database       | DynamoDB / Redis            | 1+ years   |
+| Database       | MongoDB                     | ~2 month   |
+| DevOps         | Linux / SSH / Bash          | 3+ years   |
+| DevOps         | Travis CI                   | 3+ years   |
+| DevOps         | Circle CI                   | 3+ years   |
+| DevOps         | Docker                      | 4+ years   |
+| DevOps         | Ansible                     | 1+ year    |
+| AI             | Tensorflow / Keras          | ~6 month   |
 
+</details>
 
-### Follow Me
+## More
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mahkamov_9)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/mahkamov9/)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.instagram.com/mahkamov_9/)
+<p align="center">
+          <a href="https://github.com/dalisoft" target="_blank" alt="GitHub">
+            GitHub
+          </a>
+          <a href="https://linkedin.com/in/dalisoft" target="_blank" alt="LinkedIn">
+            LinkedIn
+          </a>
+          <a href="https://twitter.com/dalisoft" target="_blank" alt="Twitter">
+            Twitter
+          </a>
+</p>
 
+## Questions left?
 
+Ask me at questions@dalisoft.uz
+
+## Sponsorship offers?
+
+Mail me at opensource@dalisoft.uz
+
+## Commercial questions/offers?
+
+Mail me at commercial@dalisoft.uz
