@@ -34,10 +34,10 @@
           <a href="https://github.com/Mahkamov9" target="_blank" alt="GitHub">
             GitHub
           </a>
-          <a href="[https://linkedin.com/in/dalisoft](https://www.linkedin.com/in/mahkamov9/)" target="_blank" alt="LinkedIn">
+          <a href="https://www.linkedin.com/in/mahkamov9/" target="_blank" alt="LinkedIn">
             LinkedIn
           </a>
-          <a href="[https://twitter.com/dalisoft](https://www.linkedin.com/in/mahkamov9/)" target="_blank" alt="Twitter">
+          <a href="https://www.linkedin.com/in/mahkamov9" target="_blank" alt="Twitter">
             Twitter
           </a>
 </p>
