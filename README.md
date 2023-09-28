@@ -31,7 +31,7 @@
 ## More
 
 <p align="center">
-          <a href="[https://github.com/dalisoft](https://github.com/Mahkamov9)" target="_blank" alt="GitHub">
+          <a href="https://github.com/Mahkamov9" target="_blank" alt="GitHub">
             GitHub
           </a>
           <a href="[https://linkedin.com/in/dalisoft](https://www.linkedin.com/in/mahkamov9/)" target="_blank" alt="LinkedIn">
