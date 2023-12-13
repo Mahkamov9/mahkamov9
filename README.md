@@ -1,4 +1,4 @@
-rydududehdduddhdueedhhdehdfvejdwhdhdgssgs<h1 align="center">Hi 👋, I'm Ahadjon</h1>
+jdjdrydududehdduddhdueedhhdehdfvejdwhdhdgssgs<h1 align="center">Hi 👋, I'm Ahadjon</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
 ## Top stacks
