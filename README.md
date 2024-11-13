@@ -6,13 +6,8 @@
 <b>JavaScript</b>
 <b>React</b>
 </p>
-
-<details>
   <summary>Statistics</summary>
   <h1>Mahkamov</h1>
-</details>
-
-<details>
 <summary>All stacks</summary>
 
 | Stack          | Name                        | Experience |
@@ -22,9 +17,6 @@
 | Frontend       | SVG / SVG Animation         | 1+ years   |
 | Frontend       | React (+ Router, Hooks)     | 1+ years   |
 | Frontend       | Wessite-admin-page          | 1+ years   |
-</details>
-
-## More
 
 <p align="center">
           <a href="https://github.com/Mahkamov9" target="_blank" alt="GitHub">
@@ -37,4 +29,4 @@
             X.com
           </a>
 </p>
-Mail me at mahkamov.dev@gmail.com
+Mail me at :        <a href="mailto:mahkamov.dev@gmail.com" target="_blank" alt="email">  Mail </a>   
