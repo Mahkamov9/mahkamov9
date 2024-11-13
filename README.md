@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahadjon</h1>
-<h3 align="center">Junior Frontend Developer</h3>
-
-<h1  align="center" >Top stacks</h1>
+<h1 align="center">Hi 👋, I'm Mahkamov Ahadjon</h1>
+<h3 align="center">Frontend Developer</h3>
+<h1  align="center" >Skills</h1>
 
 <p align='center'>
-<b>React - Node.js - PostgreSQL - Vue - JavaScript</b>
+<b>JavaScript</b>
+<b>React</b>
 </p>
 
 <details>
@@ -21,11 +21,7 @@
 | Frontend       | HTML / CSS / Flexbox        | 2+ years   |
 | Frontend       | SVG / SVG Animation         | 1+ years   |
 | Frontend       | React (+ Router, Hooks)     | 1+ years   |
-| Frontend       | Vue / Svelte                | ~3 month   |
-| Backend        | Python / aiohttp            | ~1 month   |
-| Backend        | Node.js                     | ~3 month   |
-| Database       | Postgres                    | ~2 month   |
-| DevOps         | Linux / SSH / Bash          | --------   |
+| Frontend       | Wessite-admin-page          | 1+ years   |
 </details>
 
 ## More
@@ -34,22 +30,11 @@
           <a href="https://github.com/Mahkamov9" target="_blank" alt="GitHub">
             GitHub
           </a>
-          <a href="https://www.linkedin.com/in/mahkamov9/" target="_blank" alt="LinkedIn">
+          <a href="https://www.linkedin.com/in/mahkamov/" target="_blank" alt="LinkedIn">
             LinkedIn
           </a>
-          <a href="https://www.linkedin.com/in/mahkamov9" target="_blank" alt="Twitter">
-            Twitter
+          <a href="https://x/mahkamov_9" target="_blank" alt="X.com">
+            X.com
           </a>
 </p>
-
-## Questions left?
-
-Ask me at mahkamov.dev@gmail.com
-
-## Sponsorship offers?
-
-Mail me at mahkamov.dev@gmail.com
-
-## Commercial questions/offers?
-
 Mail me at mahkamov.dev@gmail.com
